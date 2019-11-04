@@ -1,0 +1,11 @@
+---
+collection: "Development"
+platform: "CodeIgniter"
+type: "library"
+developer: "Marcos Santana"
+developer_url: "https://github.com/mktweb/"
+price: "Free"
+url: "https://github.com/mktweb/ci-tinypng"
+---
+
+Tinify API Library from PHP CodeIgniter
